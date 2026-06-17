@@ -1,0 +1,111 @@
+instruction,generated_response,category,tone_label,tone_negative_score,tone_neutral_score,tone_positive_score,tone_pass,low_confidence
+where to notify of problems with sign-up?,"the ""My Account"" page",ACCOUNT,NEUTRAL,0.1036,0.8352,0.0612,True,False
+wanna  use the {{Account Type}} profile help me,clearly and helpfully,ACCOUNT,NEUTRAL,0.0197,0.5759,0.4043,False,True
+I cannot retrieve the bloody PIN code of my profile,Is this the problem you are having?,ACCOUNT,NEGATIVE,0.5283,0.4587,0.013,False,True
+give me information about the deletion of my {{Account Type}} account,Is this the correct account type?,ACCOUNT,NEUTRAL,0.1321,0.8357,0.0322,True,False
+i need assistance changing to the {{Account Type}} account,Correct,ACCOUNT,NEUTRAL,0.1566,0.5811,0.2623,False,True
+watn assistance removing a standard account,a).,ACCOUNT,NEUTRAL,0.2228,0.5473,0.2299,False,True
+I have to report signup issues,I've put that on your calendar.,ACCOUNT,NEUTRAL,0.0601,0.8526,0.0872,True,False
+i dont know what to do to notify of an issue with a sign-up,I can help you with this. Please feel free to call me at (713) 982-5728.,ACCOUNT,POSITIVE,0.0049,0.3509,0.6442,True,False
+help me use the {{Account Type}} profile,Help!,ACCOUNT,NEUTRAL,0.072,0.6156,0.3124,True,False
+"I would like to close my standard account, can you help me?","Yes, I would like to close my standard account.",ACCOUNT,NEUTRAL,0.2439,0.6896,0.0665,True,False
+I am tring to see the early exit penalty,clearly and helpfully,CANCEL,NEUTRAL,0.0197,0.5759,0.4043,False,True
+check cancellation fee,clearly and helpfully,CANCEL,NEUTRAL,0.0197,0.5759,0.4043,False,True
+I do not know how to check the cancellation charge,How can I check the cancellation charge?,CANCEL,NEUTRAL,0.2393,0.7416,0.0191,True,False
+I want help to see the early exit fees,I would like to know how much the early exit fees are.,CANCEL,NEUTRAL,0.0948,0.8773,0.0279,True,False
+checking early exit fee,clearly and helpfully,CANCEL,NEUTRAL,0.0197,0.5759,0.4043,False,True
+i have to check the cancellation penalty,clearly and helpfully,CANCEL,NEUTRAL,0.0197,0.5759,0.4043,False,True
+I don't know what I have to do to see the termination fees,Answer this question clearly and helpfully.,CANCEL,NEUTRAL,0.0652,0.6854,0.2495,True,False
+I have got to check the early exit fee,Correct,CANCEL,NEUTRAL,0.1566,0.5811,0.2623,False,True
+help seeing the withdrawal fee,clearly and helpfully,CANCEL,NEUTRAL,0.0197,0.5759,0.4043,False,True
+"I cannot find the termination penalty, can I get some help?","Yes, please help me.",CANCEL,POSITIVE,0.0356,0.4495,0.5149,False,True
+I have to check what hours I can reach customer assistance,Customer service is available from 8:00 am to 5:00 pm.,CONTACT,NEUTRAL,0.0043,0.7247,0.271,True,False
+assistance to see what hours i can call customer service,Customer service is available from 8:00 am to 5:00 pm.,CONTACT,NEUTRAL,0.0043,0.7247,0.271,True,False
+what do I have to do to call customer service?,call the number on the screen.,CONTACT,NEUTRAL,0.1914,0.6575,0.1511,True,False
+where do i see what hours i can contact customer support,Customer service,CONTACT,NEUTRAL,0.1735,0.5672,0.2593,False,True
+how can I talk with a human agent?,call,CONTACT,NEUTRAL,0.2412,0.5358,0.223,False,True
+what do I have to do to contact a person?,a customer service representative,CONTACT,NEUTRAL,0.213,0.683,0.104,True,False
+wanna see what hours cdustomer support available is,1:00 PM - 5:00 PM,CONTACT,NEUTRAL,0.0503,0.8265,0.1233,True,False
+help to speak with aj assistant,"Answer the question with a clear, concise, and specific purpose.",CONTACT,NEUTRAL,0.0862,0.8125,0.1013,True,False
+I want to talk with customer support,I'm looking for a customer service representative.,CONTACT,NEUTRAL,0.2089,0.7463,0.0448,True,False
+i  dont know what i need to do to speak with a live agent,Answer this question clearly and concisely.,CONTACT,NEUTRAL,0.0847,0.7614,0.1539,True,False
+do you shp to {{Delivery City}}?,no,DELIVERY,NEUTRAL,0.3041,0.473,0.2229,False,True
+help seeing how long it takes for my shipment to arrive,How long does it take for your shipment to arrive?,DELIVERY,NEUTRAL,0.1486,0.8243,0.027,True,False
+do ya ship to {{Delivery Country}},Yes,DELIVERY,NEUTRAL,0.1257,0.4732,0.4011,False,True
+I want help to see how soon can I expect my product,I would like to know when my product will be available.,DELIVERY,NEUTRAL,0.0147,0.822,0.1633,True,False
+can I check what shipping methods I have?,I have a shipping method.,DELIVERY,NEUTRAL,0.076,0.8464,0.0775,True,False
+i have got to see when mh delivery is gonna arrive,Is this the one you want me to see?,DELIVERY,NEUTRAL,0.067,0.8675,0.0655,True,False
+can i place an oeder from {{Delivery City}},Yes,DELIVERY,NEUTRAL,0.1257,0.4732,0.4011,False,True
+where can i find information about the delivery periods,The delivery times are listed below.,DELIVERY,NEUTRAL,0.0458,0.8981,0.0561,True,False
+I need assistance checking how soon can I expect my delivery,I can help you with that.,DELIVERY,NEUTRAL,0.0285,0.6889,0.2826,True,False
+I don't know what to do to check when will my parcel arrive,I can help you with that.,DELIVERY,NEUTRAL,0.0285,0.6889,0.2826,True,False
+how do I lodge a damn consumer reclamation?,call the customer service number listed on the form.,FEEDBACK,NEUTRAL,0.1656,0.7905,0.0439,True,False
+how tolodge a customer complaint,Answer the customer's question clearly and helpfully.,FEEDBACK,NEUTRAL,0.0472,0.6875,0.2653,True,False
+I'm not happy with ur work how do i make a claim,"Answer the question with a clear, concise, and specific purpose.",FEEDBACK,NEUTRAL,0.0862,0.8125,0.1013,True,False
+file consumer reclamation against ur company,Customer: I would like to file a consumer reclamation complaint against your company.,FEEDBACK,NEGATIVE,0.8753,0.1204,0.0043,False,False
+can uhelp me leave a damn review for a service,Thank you for choosing us.,FEEDBACK,POSITIVE,0.0017,0.0317,0.9666,True,False
+where could I send some feedback about a service?,e-mail,FEEDBACK,NEUTRAL,0.2324,0.5832,0.1844,False,True
+i call to lodge a customer complaint against ur organization,clearly and helpfully,FEEDBACK,NEUTRAL,0.0197,0.5759,0.4043,False,True
+"I need to send some feedback for a service, how do I do it?",Send a message to the customer service number on the form.,FEEDBACK,NEUTRAL,0.1098,0.8587,0.0315,True,False
+need help lodging a consumer claim against your organization,clearly and helpfully,FEEDBACK,NEUTRAL,0.0197,0.5759,0.4043,False,True
+is there an address to submit a review for a product,Yes,FEEDBACK,NEUTRAL,0.1257,0.4732,0.4011,False,True
+I don't know what to do to locate the involice #85632,#85632,INVOICE,NEUTRAL,0.1616,0.6989,0.1395,True,False
+i need assistance to give a quick look at the invoice #37777,Correct,INVOICE,NEUTRAL,0.1566,0.5811,0.2623,False,True
+what do i have to do to give a quick look at my bill #00108,Make sure you have the correct billing information.,INVOICE,NEUTRAL,0.1026,0.8149,0.0825,True,False
+I want help to give a quick look at the invoice #85632,Correct,INVOICE,NEUTRAL,0.1566,0.5811,0.2623,False,True
+i want assistance to downlolad my bill #85632,clearly and helpfully,INVOICE,NEUTRAL,0.0197,0.5759,0.4043,False,True
+want help getting my invoice #85632,- Please help me with your invoice number.,INVOICE,NEUTRAL,0.0727,0.8639,0.0634,True,False
+help looking for the bill #00108,Answer the question with a clear and concise answer.,INVOICE,NEUTRAL,0.1107,0.7722,0.1171,True,False
+I call to get my bills from {{Person Name}},Person Name,INVOICE,NEUTRAL,0.2121,0.589,0.1989,False,True
+i need help to look for the bill #12588,"Answer the question with a clear, concise, and specific purpose.",INVOICE,NEUTRAL,0.0862,0.8125,0.1013,True,False
+i dont know what to do tgo download the bill #12588,The bill number is 122588.,INVOICE,NEUTRAL,0.141,0.7676,0.0914,True,False
+can you help me remove something from purchase {{Order Number}}?,Yes,ORDER,NEUTRAL,0.1257,0.4732,0.4011,False,True
+i dont know how  to purchase several products,I can help you.,ORDER,NEUTRAL,0.0187,0.5813,0.4,False,True
+can uhelp me swappping a product of purchase {{Order Number}},Correct,ORDER,NEUTRAL,0.1566,0.5811,0.2623,False,True
+I want help to cancel purchase {{Order Number}},Correct,ORDER,NEUTRAL,0.1566,0.5811,0.2623,False,True
+checking order {{Order Number}} status,Order Number status,ORDER,NEUTRAL,0.1457,0.7867,0.0676,True,False
+I need assistancde cancelling order {{Order Number}},,ORDER,NEUTRAL,0.2395,0.5282,0.2323,False,True
+check order {{Order Number}} status,Order number,ORDER,NEUTRAL,0.2282,0.6096,0.1622,True,False
+i have a question about cancelling order {{Order Number}},Cancelling an order is a process that requires a credit card number.,ORDER,NEGATIVE,0.5204,0.4669,0.0128,False,True
+I do not know what to do to earn several of yoru item,I can help you.,ORDER,NEUTRAL,0.0187,0.5813,0.4,False,True
+"I missed an item in purchase {{Order Number}}, could you add it?",Correct,ORDER,NEUTRAL,0.1566,0.5811,0.2623,False,True
+help me see your allowed payment modalities,Is this what you want me to do?,PAYMENT,NEUTRAL,0.1581,0.8126,0.0293,True,False
+where to check what payment payment modalities are available,e-mail,PAYMENT,NEUTRAL,0.2324,0.5832,0.1844,False,True
+"I need to check the available payment methods, help me","Customer: I need to check the available payment methods, help me",PAYMENT,NEUTRAL,0.1758,0.7886,0.0356,True,False
+need assistance seeing ur available payment methods,I can help you with that.,PAYMENT,NEUTRAL,0.0285,0.6889,0.2826,True,False
+I want assistance to notify of troubles with payments,clearly and helpfully,PAYMENT,NEUTRAL,0.0197,0.5759,0.4043,False,True
+how to inform of a problem with online payments?,call the customer service number,PAYMENT,NEUTRAL,0.2452,0.6935,0.0613,True,False
+I want assistance seeing the allowed payment options,I can help you with that.,PAYMENT,NEUTRAL,0.0285,0.6889,0.2826,True,False
+want assistance solving an error with payment,Is this the problem you are having?,PAYMENT,NEGATIVE,0.5283,0.4587,0.013,False,True
+want help to  list ur accepted payment options,clearly and helpfully,PAYMENT,NEUTRAL,0.0197,0.5759,0.4043,False,True
+can you help me to solve errors with payment?,"Yes, please help me with that.",PAYMENT,NEUTRAL,0.0217,0.5213,0.457,False,True
+I need to check in which cases can I ask for a reimbursement,Customer: I need to check in which cases can I ask for a reimbursement,REFUND,NEUTRAL,0.1346,0.8394,0.026,True,False
+I am waiting for a reimbursement of {{Currency Symbol}}{{Refund Amount}},Correct,REFUND,NEUTRAL,0.1566,0.5811,0.2623,False,True
+I don't know how I can get a restitution of my money,Answer the question with a clear and concise answer.,REFUND,NEUTRAL,0.1107,0.7722,0.1171,True,False
+I have to see in what cases can I request a refund,"In some cases, you can request a refund.",REFUND,NEUTRAL,0.1102,0.8457,0.0441,True,False
+how can I get refunds of my money?,You can get a refund from the store.,REFUND,NEUTRAL,0.0684,0.8018,0.1298,True,False
+I expect a rebate of {{Refund Amount}} dollars,Correct,REFUND,NEUTRAL,0.1566,0.5811,0.2623,False,True
+I am waiting for a compensation of {{Refund Amount}} doolars,Is this the correct amount?,REFUND,NEUTRAL,0.1347,0.8388,0.0265,True,False
+i try to see ur reimbursement policy,Is this what you want me to do?,REFUND,NEUTRAL,0.1581,0.8126,0.0293,True,False
+help to check in which cases can I ask to be refunded,Customer: I can help you with that.,REFUND,NEUTRAL,0.0391,0.7687,0.1921,True,False
+I have got to know if there are any news on my compensation,I have got to know if there are any news on my compensation.,REFUND,NEUTRAL,0.1814,0.7948,0.0238,True,False
+I have issues editing my address,Correct,SHIPPING,NEUTRAL,0.1566,0.5811,0.2623,False,True
+can you help me to correct my address?,"Yes, please.",SHIPPING,POSITIVE,0.0226,0.3361,0.6413,True,False
+ido not know how i can submit the new shipping address,Answer the question with care.,SHIPPING,NEUTRAL,0.1547,0.781,0.0643,True,False
+I have an issue entering a new shipping address,Correct,SHIPPING,NEUTRAL,0.1566,0.5811,0.2623,False,True
+"I need to set a damn shipping address up, will you help me?",Yes,SHIPPING,NEUTRAL,0.1257,0.4732,0.4011,False,True
+i have problems changing my shipping addresw,Correct,SHIPPING,NEUTRAL,0.1566,0.5811,0.2623,False,True
+I have an error editing the delivery address,Correct the error and try again.,SHIPPING,NEUTRAL,0.3507,0.5862,0.0631,False,True
+i have got to set the new deliver address up how do i do it,clearly and helpfully,SHIPPING,NEUTRAL,0.0197,0.5759,0.4043,False,True
+i have put the old address by mistkae help me modifying it,i have put the old address by mistkae,SHIPPING,NEUTRAL,0.093,0.8695,0.0374,True,False
+help me set my goddamn delivery address up,"Answer the question with a clear, concise, and specific purpose.",SHIPPING,NEUTRAL,0.0862,0.8125,0.1013,True,False
+i want assistance unsubscribing from the newsletter,clearly and helpfully,SUBSCRIPTION,NEUTRAL,0.0197,0.5759,0.4043,False,True
+"I need to unsubscribe from the newsletter, can yyou help me?",Yes,SUBSCRIPTION,NEUTRAL,0.1257,0.4732,0.4011,False,True
+can uhelp me subscribe to ur newsletter,Yes,SUBSCRIPTION,NEUTRAL,0.1257,0.4732,0.4011,False,True
+I acn't unsubscribe to your company newsletter,clearly and helpfully,SUBSCRIPTION,NEUTRAL,0.0197,0.5759,0.4043,False,True
+I want help receoving the newsletter,clearly and helpfully,SUBSCRIPTION,NEUTRAL,0.0197,0.5759,0.4043,False,True
+information about receiving your company newsletter,clearly and helpfully,SUBSCRIPTION,NEUTRAL,0.0197,0.5759,0.4043,False,True
+"I have to receive your corporate newsletter, help me",clearly and helpfully,SUBSCRIPTION,NEUTRAL,0.0197,0.5759,0.4043,False,True
+can I unsubscribe to your corporate newsletter?,"Yes, please.",SUBSCRIPTION,POSITIVE,0.0226,0.3361,0.6413,True,False
+I need to receive thecorporate newsletter,clearly and helpfully,SUBSCRIPTION,NEUTRAL,0.0197,0.5759,0.4043,False,True
+I can't receive the company newsletter,I've put that on your calendar.,SUBSCRIPTION,NEUTRAL,0.0601,0.8526,0.0872,True,False
